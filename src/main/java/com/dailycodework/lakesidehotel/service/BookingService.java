@@ -9,10 +9,6 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import java.util.List;
 
-/**
- * @author Simpson Alfred
- */
-
 @Service
 @RequiredArgsConstructor
 public class BookingService implements IBookingService {
